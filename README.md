@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Sunidhi!
 - 🌟 Technical Writer | Open-Source Enthusiast
 - 🖋️ Passionate about creating clear and concise documentation.
 ## About Me
