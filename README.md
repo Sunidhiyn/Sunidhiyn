@@ -12,10 +12,7 @@ I enjoy contributing to open-source projects and helping developers create amazi
 ## Featured Work
 - 📝 [Medium](https://medium.com/@sunidhyn0007)
 
-  | Skill          | Proficiency     |
-|----------------|-----------------|
-| Markdown       | Expert          |
-| API Writing    | Advanced        |
+ --------------------------------------------------------------------------------------------
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunidhiyn&show_icons=true)
