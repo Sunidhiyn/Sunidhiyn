@@ -18,9 +18,9 @@ I enjoy contributing to open-source projects and helping developers create amazi
 | API Writing    | Advanced        |
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunidhiyn&show_icons=true)
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=Sunidhiyn&color=blue)
 
   
 
