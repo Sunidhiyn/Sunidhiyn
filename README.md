@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Sunidhi!
-- 🌟 Technical Writer | Open-Source Enthusiast
+- 🌟 Content Strategist | Open-Source Enthusiast
 - 🖋️ Passionate about creating clear and concise documentation.
 ## About Me
 I'm a technical writer with expertise in:
