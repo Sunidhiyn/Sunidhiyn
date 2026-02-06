@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sunidhi!
 I’m a Business Analyst working in the cybersecurity and telecommunications space, where I help bridge the gap between business needs and technical solutions. I enjoy turning complex requirements into clear insights, improving processes, and collaborating with cross-functional teams to deliver secure, scalable, and efficient systems.
-My experience spans requirement analysis, stakeholder management, process optimization, and data-driven decision-making—often in fast-paced, high-impact environments where security and reliability matter.
+My experience spans requirement analysis, stakeholder management, process optimization, and data-driven decision-making often in fast-paced, high-impact environments where security and reliability matter.
 
 ## About Me
 I'm a technical writer with expertise in:
