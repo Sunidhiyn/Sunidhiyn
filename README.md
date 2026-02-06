@@ -8,7 +8,7 @@ I'm a technical writer with expertise in:
 - 💻 Software Guides and Tutorials
 - 🎨 User-Centric Content Design
 
-# 🌱 Currently Learning
+### 🌱 Currently Learning
 
 - Advanced data analysis & visualization
 
@@ -18,14 +18,14 @@ I'm a technical writer with expertise in:
 
 - Better ways to communicate technical concepts to non-technical stakeholders
 
-# 🌍 Outside of Work
+### 🌍 Outside of Work
 
 Outside of work, I enjoy staying current with technology and industry trends, traveling and exploring new cultures, reading about business strategy and personal development.
 
-## Featured Work
+### Featured Work
 - 📝 [Medium](https://medium.com/@sunidhyn0007)
 
-## 📫How to Reach Me
+### 📫How to Reach Me
 **Linkedin**: https://www.linkedin.com/in/sunidhi-yadav/
 
 
