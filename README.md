@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Sunidhi!
-I’m a Business Analyst working in the cybersecurity and telecommunications space, where I help bridge the gap between business needs and technical solutions. I enjoy turning complex requirements into clear insights, improving processes, and collaborating with cross-functional teams to deliver secure, scalable, and efficient systems.
-My experience spans requirement analysis, stakeholder management, process optimization, and data-driven decision-making often in fast-paced, high-impact environments where security and reliability matter.
+I’m an SAP MM & Ariba Consultant focused on procurement, supplier management, and Source-to-Pay processes. I enjoy translating business requirements into practical SAP solutions, streamlining procurement processes, and working across functional and technical teams to deliver efficient and scalable solutions.
+
+My experience spans SAP MM, SAP Ariba Supplier Management, P2P/S2P processes, supplier onboarding and qualification, requirements analysis, functional documentation, process mapping, and SIT/UAT testing. I’m particularly interested in digital procurement, supplier lifecycle management, and SAP-enabled process transformation.
 
 ### 🌱 Currently Learning
 
@@ -30,20 +31,4 @@ Outside of work, I enjoy staying current with technology and industry trends, tr
 
 ![Profile views](https://komarev.com/ghpvc/?username=Sunidhiyn&color=blue)
 
-  
-
-
-<!--
-**Sunidhiyn/Sunidhiyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
